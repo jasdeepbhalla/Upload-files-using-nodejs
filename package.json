@@ -1,0 +1,19 @@
+{
+  "name": "nodeuploader",
+  "version": "1.0.0",
+  "description": "uploading files using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasdeepbhalla/Upload-files-using-nodejs.git"
+  },
+  "author": "Jasdeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasdeepbhalla/Upload-files-using-nodejs/issues"
+  },
+  "homepage": "https://github.com/jasdeepbhalla/Upload-files-using-nodejs#readme"
+}
